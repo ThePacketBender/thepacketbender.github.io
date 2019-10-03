@@ -1,10 +1,10 @@
 # --- General options --- #
 
 # Name of website
-title: Jonathon Bohr
+title: Jonathon Bohr #2 Fanpage
 
 # Short description of your site
-description: Jonathon Bohr
+description: Jonathon Bohr #2 Fanpage
 
 # url is the the website domain URL without a trailing slash
 url: "https://thepacketbender.github.com"
@@ -14,7 +14,7 @@ baseurl: ""
 
 # --- Nav bar --- #
 navbar-links:
-  About Me: "About Jonathon Bohr"
+  About Me: "About Jonathon"
 
 # Image to show in the navigation bar - image must be a square (width = height)
 avatar: "/img/avatar-icon.png"
@@ -52,19 +52,18 @@ share-links-active:
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "https://jonathonbohr.github.io/"
-url-pretty: "https://github.jonathonbohr.com/"
+url-pretty: "https://thepacketbender.github.io/"
 
 # --- Web Statistics Section --- #
 
 # Fill in your Google Analytics gtag.js ID to track your website using gtag
-#gtag: ""
+gtag: "GTM-TXR76XF"
 
 # Fill in your Google Analytics ID to track your website using GA
 #google_analytics: ""
 
 # Google Tag Manager ID
-#gtm: ""
+gtm: "GTM-TXR76XF"
 
 # --- Misc --- #
 
